@@ -43,7 +43,7 @@ I bridge **creativity and technology** — building real-world digital solutions
 |--------|-------------|------|
 | **Finadine** | B2C e-commerce shopping platform | [finadine.com](https://finadine.com) |
 | **ACDI Africa** | NGO website — designed & built from scratch, WordPress | [acdi-africa.org](https://acdi-africa.org) |
-| **Watchers Intercessors Network** | International church platform (Japan · US · Ghana) | [watchersintercessorsnetwork.web.app](https://watchersintercessorsnetwork.web.app) |
+| **Watchers Intercessors Network** | International church platform (Japan · US · Ghana) | [watcherintercessorsnetwork.web.app](https://watchersintercessorsnetwork.web.app) |
 | **Savika News** | News & blogging platform for journalists | [savikanew.wauze.com](https://savikanew.wauze.com) |
 
 ---
