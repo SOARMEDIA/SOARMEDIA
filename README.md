@@ -1,16 +1,116 @@
-## Hi there 👋
+<!-- SOARMEDIA GitHub Profile README -->
+<!-- Copy this entire file into a repo named exactly: SOARMEDIA -->
+<!-- Then add a file called README.md and paste this content -->
 
-<!--
-**SOARMEDIA/SOARMEDIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Redeemer Jerrey Kow Williams
+### Multi-disciplinary Media & Technology Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Mobile+Developer;Web+Developer+%26+Digital+Architect;Broadcast+%26+MCR+Operations+Specialist;Creative+Director+%26+Media+Producer;Founder+%40+SOAR+Media+PC)](https://git.io/typing-svg)
+
+📍 Accra, Ghana &nbsp;|&nbsp; 🎓 CS Student @ University of Ghana &nbsp;|&nbsp; 💼 Open to Opportunities
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I bridge **creativity and technology** — building real-world digital solutions while leading media productions across Ghana. From deploying Flutter apps used at live events, to directing broadcast operations at radio stations, to founding my own media company at age 16, I turn ideas into impact.
+
+- 🔭 Currently: **Creative Director @ EKB Studios** | **Head of IT @ Kingdom FM 106.1** | **MCR Operator @ Work Hard Studios**
+- 🌱 Building: SoarCampus — an AI-powered school management platform
+- 🏢 Founder: **SOAR Media Pursuit Consult** (since 2018)
+- 📡 Passionate about: Software Engineering · Broadcast Technology · UI/UX · IoT · Media Innovation
+
+---
+
+## 🚀 Live Projects
+
+### 📱 Mobile & Web Apps
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **SoarLogbook** | Multi-feature registration platform with SMS & email notifications | Flutter · Firebase | [soarlogbook.web.app](https://soarlogbook.web.app) |
+| **SoarSend** | Bulk SMS & email broadcasting system | Flutter · Firebase | [soarsend.web.app](https://soarsend.web.app) |
+| **SoarAI** | Unified AI platform combining multiple leading AI APIs | Flutter · AI APIs | [soarai.web.app](https://soarai.web.app) |
+| **SoarCampus** | AI-powered school management system with student portals | Flutter · Firebase | [soarcampus.web.app](https://soarcampus.web.app) |
+| **TalkNaaw** | Bulk SMS mobile app (collaboration project) | Flutter | — |
+
+### 🌐 Websites
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Finadine** | B2C e-commerce shopping platform | [finadine.com](https://finadine.com) |
+| **ACDI Africa** | NGO website — designed & built from scratch, WordPress | [acdi-africa.org](https://acdi-africa.org) |
+| **Watchers Intercessors Network** | International church platform (Japan · US · Ghana) | [watchersintercessorsnetwork.web.app](https://watchersintercessorsnetwork.web.app) |
+| **Savika News** | News & blogging platform for journalists | [savikanew.wauze.com](https://savikanew.wauze.com) |
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Mobile        Flutter · Dart · Firebase Auth · Firestore · Android/Web/iOS
+Web           HTML · CSS · JavaScript · WordPress · CMS
+Design        Adobe Photoshop · After Effects · Lightroom · CorelDRAW · Canva
+Video         Adobe Premiere Pro · DaVinci Resolve · CapCut
+Broadcast     MCR Operations · Livestream Production · Broadcast Gear Setup
+Audio         Sound Engineering · Audio Production
+Tools         VS Code · Git · GitHub · Firebase Console
+```
+
+---
+
+## 💼 Experience Highlights
+
+- 🎙️ **Head of IT** — Kingdom FM 106.1 *(promoted from Social Media Manager)*
+- 🎬 **Creative Director** — EKB Studios
+- 📡 **MCR Operator** — Work Hard Studios
+- 🌍 **Communications Intern (Web & Multimedia)** — African Centre for Development Impact (ACDI)
+- 🏢 **Founder & CEO** — SOAR Media Pursuit Consult *(2018 – Present)*
+
+---
+
+## 🏆 Notable Work
+
+- 📱 **SoarLogbook** was deployed and used live at the official **ACDI launch event** for attendee registration
+- 🎥 Produced **videos, highlights & reels** for **DIWA-GIMPA** at Fiesta Hotel (international 3-day seminar)
+- 📻 Managed **full IT infrastructure** at a live radio station
+- 🌐 Built and currently managing the website for an **international NGO** (ACDI Africa)
+- ⛪ Built a **church website** serving communities across Japan, US & Ghana
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![SOARMEDIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOARMEDIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOARMEDIA&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-williamsredeemer%40gmail.com-2E75B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsredeemer@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B233%20256%20668%20237-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233256668237)
+[![GitHub](https://img.shields.io/badge/GitHub-SOARMEDIA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOARMEDIA)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Bridging creativity and technology to build what matters."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SOARMEDIA&color=2E75B6&style=flat-square)
+
+</div>
