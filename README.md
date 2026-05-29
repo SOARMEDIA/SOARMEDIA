@@ -1,6 +1,5 @@
 <!-- SOARMEDIA GitHub Profile README -->
-<!-- Copy this entire file into a repo named exactly: SOARMEDIA -->
-<!-- Then add a file called README.md and paste this content -->
+<!-- Create a repo named exactly: SOARMEDIA, add README.md and paste this -->
 
 <div align="center">
 
@@ -63,35 +62,25 @@ Tools         VS Code · Git · GitHub · Firebase Console
 
 ---
 
-## 💼 Experience Highlights
-
-- 🎙️ **Head of IT** — Kingdom FM 106.1 *(promoted from Social Media Manager)*
-- 🎬 **Creative Director** — EKB Studios
-- 📡 **MCR Operator** — Work Hard Studios
-- 🌍 **Communications Intern (Web & Multimedia)** — African Centre for Development Impact (ACDI)
-- 🏢 **Founder & CEO** — SOAR Media Pursuit Consult *(2018 – Present)*
-
----
-
 ## 🏆 Notable Work
 
-- 📱 **SoarLogbook** was deployed and used live at the official **ACDI launch event** for attendee registration
+- 📱 **SoarLogbook** deployed and used live at the official **ACDI launch event** for attendee registration
 - 🎥 Produced **videos, highlights & reels** for **DIWA-GIMPA** at Fiesta Hotel (international 3-day seminar)
-- 📻 Managed **full IT infrastructure** at a live radio station
-- 🌐 Built and currently managing the website for an **international NGO** (ACDI Africa)
+- 📻 Managing **full IT infrastructure** at a live radio station (Kingdom FM 106.1)
+- 🌐 Built and managing the website for an **international NGO** — ACDI Africa
 - ⛪ Built a **church website** serving communities across Japan, US & Ghana
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Highlights
 
-<div align="center">
-
-![SOARMEDIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOARMEDIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOARMEDIA&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Role | Organisation | Period |
+|------|-------------|--------|
+| 🎬 Creative Director | EKB Studios | Apr 2026 – Present |
+| 💻 Head of IT *(promoted from Social Media Manager)* | Kingdom FM 106.1 | Oct 2024 – Present |
+| 📡 MCR Operator | Work Hard Studios | Jun 2025 – Present |
+| 🌍 Communications Intern (Web & Multimedia) | ACDI Africa | Feb – May 2026 |
+| 🏢 Founder & CEO | SOAR Media Pursuit Consult | Aug 2018 – Present |
 
 ---
 
@@ -100,7 +89,7 @@ Tools         VS Code · Git · GitHub · Firebase Console
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-williamsredeemer%40gmail.com-2E75B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsredeemer@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B233%20256%20668%20237-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233256668237)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B233%20256%20668%20237-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233256668237)
 [![GitHub](https://img.shields.io/badge/GitHub-SOARMEDIA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOARMEDIA)
 
 </div>
