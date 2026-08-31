@@ -31,10 +31,10 @@ I bridge **creativity and technology** — building real-world digital solutions
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| **SoarLogbook** | Multi-feature registration platform with SMS & email notifications | Flutter · Firebase | [soarlogbook.web.app](https://soarlogbook.web.app) |
-| **SoarSend** | Bulk SMS & email broadcasting system | Flutter · Firebase | [soarsend.web.app](https://soarsend.web.app) |
-| **SoarAI** | Unified AI platform combining multiple leading AI APIs | Flutter · AI APIs | [soarai.web.app](https://soarai.web.app) |
-| **SoarCampus** | AI-powered school management system with student portals | Flutter · Firebase | [soarcampus.web.app](https://soarcampus.web.app) |
+| **SoarLogbook** | Multi-feature registration platform with SMS & email notifications | Flutter · Firebase | [soarlogbook.web.app](https://soarlogbook.soarmediapc.online) |
+| **SoarSend** | Bulk SMS & email broadcasting system | Flutter · Firebase | [soarsend.web.app](https://soarsend.soarmediapc.online) |
+| **SoarAI** | Unified AI platform combining multiple leading AI APIs | Flutter · AI APIs | [soarai.web.app](https://soarai.soarmediapc.online) |
+| **SoarCampus** | AI-powered school management system with student portals | Flutter · Firebase | [soarcampus.web.app](https://soarcampus.soarmediapc.online) |
 | **TalkNaaw** | Bulk SMS mobile app (collaboration project) | Flutter | — |
 
 ### 🌐 Websites
@@ -44,7 +44,7 @@ I bridge **creativity and technology** — building real-world digital solutions
 | **Finadine** | B2C e-commerce shopping platform | [finadine.com](https://finadine.com) |
 | **ACDI Africa** | NGO website — designed & built from scratch, WordPress | [acdi-africa.org](https://acdi-africa.org) |
 | **Watchers Intercessors Network** | International church platform (Japan · US · Ghana) | [watcherintercessorsnetwork.web.app](https://watcherintercessorsnetwork.web.app) |
-| **Savika News** | News & blogging platform for journalists | [savikanew.wauze.com](https://savikanew.wauze.com) |
+| **Savika News** | News & blogging platform for journalists | [savikanews.com](https://savikanews.com) |
 
 ---
 
