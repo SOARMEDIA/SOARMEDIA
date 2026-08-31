@@ -31,9 +31,9 @@ I bridge **creativity and technology** — building real-world digital solutions
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| **SoarLogbook** | Multi-feature registration platform with SMS & email notifications | Flutter · Firebase | [soarlogbook.web.app](https://soarlogbook.soarmediapc.online) |
-| **SoarSend** | Bulk SMS & email broadcasting system | Flutter · Firebase | [soarsend.web.app](https://soarsend.soarmediapc.online) |
-| **SoarAI** | Unified AI platform combining multiple leading AI APIs | Flutter · AI APIs | [soarai.web.app](https://soarai.soarmediapc.online) |
+| **SoarLogbook** | Multi-feature registration platform with SMS & email notifications | Flutter · Firebase | [soarlogbook.soarmediapc.online](https://soarlogbook.soarmediapc.online) |
+| **SoarSend** | Bulk SMS & email broadcasting system | Flutter · Firebase | [soarsend.soarmediapc.online](https://soarsend.soarmediapc.online) |
+| **SoarAI** | Unified AI platform combining multiple leading AI APIs | Flutter · AI APIs | [soarai.soarmediapc.online](https://soarai.soarmediapc.online) |
 | **SoarCampus** | AI-powered school management system with student portals | Flutter · Firebase | [soarcampus.web.app](https://soarcampus.soarmediapc.online) |
 | **TalkNaaw** | Bulk SMS mobile app (collaboration project) | Flutter | — |
 
